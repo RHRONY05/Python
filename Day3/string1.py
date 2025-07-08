@@ -47,3 +47,5 @@ if "free" in txt:
 
 if "Tahsin" not in txt:
    print("No, Tahsin is not present in txt")
+
+   
